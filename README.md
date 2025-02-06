@@ -2,6 +2,16 @@
 <h1 align="center">Hi 👋, I'm Shahadat Hossen Naim</h1>
 <h3 align="center">📌 About Me </br> 🚀 Passionate web developer skilled in frontend/backend development. </br> 🎯 Currently exploring Next.js. </br> 🌱 Always open to learning new things and collaborating on projects.</h3>
 
+ **🔍 OVERVIEW OF MY GITHUB PROFILE**
+
+
+
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahadat-nayem&theme=github_dark" alt="Profile Summary"/>
+</p>
+
 <img align="right" alt="coding" width="400" src="https://i.ibb.co.com/zWyf3FLK/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahadat-nayem&label=Profile%20views&color=0e75b6&style=flat" alt="sahadat-nayem" /> </p>
@@ -13,10 +23,22 @@
 - 📫 How to reach me **sahadatnayem333@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/sahadat nayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahadat nayem" height="30" width="40" /></a>
+**📲 REACH ME OUT**
+
+<br />
+
+<p align="center">
+  <a href="">
+    <img height="75" src="https://github.com/sahadat-nayem/sahadat-nayem/blob/main/images/linked%20in-01.png">
+  </a>
+  <a href="">
+    <img height="75" src="https://github.com/sahadat-nayem/sahadat-nayem/blob/main/images/x-logo.png">
+  </a>
+  <a href="https://www.facebook.com/FaisalAhammed00/">
+    <img height="75" src="https://github.com/sahadat-nayem/sahadat-nayem/blob/main/images/facebook.jpg">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
