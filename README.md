@@ -30,7 +30,7 @@
 <br />
 
 <p align="center">
-  <a href="">
+  <a href="https://www.linkedin.com/in/shahadat-naim-1a2b13285/">
     <img height="75" src="https://github.com/sahadat-nayem/sahadat-nayem/blob/main/images/linked%20in-01.png">
   </a>
   <a href="">
