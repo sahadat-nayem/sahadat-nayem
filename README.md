@@ -63,11 +63,10 @@
 
 **📊 GitHub Stats**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahadat-nayem&show_icons=true&locale=en&layout=compact" alt="sahadat-nayem" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahadat-nayem&show_icons=true&locale=en&layout=compact&theme=dark" alt="sahadat-nayem" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahadat-nayem&theme=dark" alt="sahadat-nayem" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahadat-nayem&" alt="sahadat-nayem" /></p>
 
 
 
