@@ -1,4 +1,4 @@
-![logo](https://github.com/sahadat-nayem/Shahadat-Hossen-Naim/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
+![logo](https://i.ibb.co.com/1tJB6Dvk/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)
 <h1 align="center">Hi 👋, I'm Shahadat Hossen Naim</h1>
 <h3 align="center">📌 About Me </br> 🚀 Passionate web developer skilled in frontend/backend development. </br> 🎯 Currently exploring Next.js. </br> 🌱 Always open to learning new things and collaborating on projects.</h3>
 
